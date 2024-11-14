@@ -1,4 +1,4 @@
-#include <DynamixelSerial.h>
+#include <DynamixelSerial3.h>
 
 #define SERVO_ID  1
 int Temperature,Voltage,Position; 
